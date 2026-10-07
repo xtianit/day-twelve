@@ -1,0 +1,44 @@
+.container{
+    width: 900px;
+    height: 90vh;
+    margin-top: 10px;
+    /* margin-left: 100px; */
+   background-color: #dcdcdc;
+   margin:auto;
+}
+.box{
+    width: 500px;
+    height: 100px;
+    background-color:black;
+    border-radius: 20px;
+}
+.four{
+    margin: 50px 10px 0 50px;
+    /* top right bottom left */
+    color: white;
+    padding: 0 30px;
+            /* top-bottom left-right */
+    box-sizing: border-box;
+    
+}
+.three{
+    margin: 50px 50px 0;
+         /* Top  left-right bottom */
+        color: white;
+        padding: 0 30px 20px;  
+}
+.two{
+    margin: 50px 50px;
+    /* top-bottom left-right */
+}
+.one{
+    margin:50px;
+    /* top-bottom-left-right */
+}
+.inline-demo{
+    display: block;
+    margin: 50px;
+    /* margin: 50px; */
+}
+
+
